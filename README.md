@@ -6,18 +6,18 @@ Este repositório contém as soluções propostas para o **Teste de Performance 
 
 A estrutura do projeto é a seguinte:
 
-src/
-  conta/ 
-    - Conta.java 
-    - TestaConta.java
-  formasGeometricas/
-    - Circulo.java
-    - Esfera.java
-    - TesteFiguras.java
-  produto/ 
-    - Produto.java 
-    - Produto_Teste_Get_set.java
-  Carro.java
+- **src/**
+  - **conta/**
+    - `Conta.java`
+    - `TestaConta.java`
+  - **formasGeometricas/**
+    - `Circulo.java`
+    - `Esfera.java`
+    - `TesteFiguras.java`
+  - **produto/**
+    - `Produto.java`
+    - `Produto_Teste_Get_set.java`
+  - `Carro.java`
 
 ## Como Executar
 
