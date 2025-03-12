@@ -6,12 +6,18 @@ Este repositório contém as soluções propostas para o **Teste de Performance 
 
 A estrutura do projeto é a seguinte:
 
-src/ ├── conta/ # Pasta contendo as classes de contas bancárias │ ├── Conta.java │ └── TestaConta.java ├── formasGeometricas/ # Pasta contendo as classes de formas geométricas │ ├── Circulo.java │ ├── Esfera.java │ └── TesteFiguras.java ├── produto/ # Pasta contendo as classes de produtos │ ├── Produto.java │ └── Produto_Teste_Get_set.java └── Carro.java # Classe referente ao gerenciamento de carros
-
-- **conta/**: Contém as classes relacionadas ao gerenciamento de contas bancárias (`Conta.java` e `TestaConta.java`).
-- **formasGeometricas/**: Contém as classes para cálculos de figuras geométricas, como o círculo (`Circulo.java`), a esfera (`Esfera.java`) e o teste de figuras (`TesteFiguras.java`).
-- **produto/**: Contém as classes relacionadas ao gerenciamento de produtos, incluindo a classe `Produto.java` e o teste de métodos `Produto_Teste_Get_set.java`.
-- **Carro.java**: Contém a classe para gerenciamento de carros.
+src/
+  conta/ 
+    - Conta.java 
+    - TestaConta.java
+  formasGeometricas/
+    - Circulo.java
+    - Esfera.java
+    - TesteFiguras.java
+  produto/ 
+    - Produto.java 
+    - Produto_Teste_Get_set.java
+  Carro.java
 
 ## Como Executar
 
