@@ -1,6 +1,6 @@
 # Projeto - Teste de Performance TP3
 
-Este repositório contém as soluções propostas para o **Teste de Performance 3 (TP3)**, onde foram implementadas as operações de gerenciamento de contas bancárias e cálculos geométricos.
+Este repositório contém as soluções propostas para o **Teste de Performance 3 (TP3)** da matéria de **Fundamentos de Desenvolvimento com Java**, onde foram implementadas as soluções requeridas pelo enunciado.
 
 ## Estrutura do Projeto
 
